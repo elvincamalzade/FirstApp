@@ -113,7 +113,7 @@ namespace FirstApp
                 button.Location = new Point(randomX, randomY);
                 this.Controls.Add(button);
 
-
+                 
             }
         }
 
